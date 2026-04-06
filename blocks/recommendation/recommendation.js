@@ -1,0 +1,1 @@
+export default function decorate(){ console.log('AI Rec'); }
